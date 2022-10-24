@@ -1,0 +1,139 @@
+#reporte_dashboard_riesgos {
+    position: relative;
+    width: 100%;
+    top: 50px;
+}
+
+.titulo_principal {
+    color: #00539e !important;
+    height: 60px;
+    background-color: #EFEFEF;
+}
+
+#tabla_dashboard_riesgos {
+    background-color: #EFEFEF;
+    border-collapse: collapse;
+}
+
+#tabla_dashboard_riesgos th {
+    height: 50px;
+    background-color: #C7C7C7;
+    font-weight: bold;
+}
+
+#tabla_dashboard_riesgos th:nth-child(1) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(2) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(3) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(4) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(5) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(6) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(7) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(8) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(9) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos th:nth-child(10) {
+    width: 10%;
+}
+
+#tabla_dashboard_riesgos td {
+    font-size: 12px;
+    height: 50px;
+    padding: 5px 0px 5px 0px;
+    border-bottom: 2px solid #C7C7C7;
+}
+
+.leyenda_horarios {
+    font-size: 12px;
+    padding-top: 5px;
+    color: black;
+}
+
+#reporte_por_color {
+    position: relative;
+    width: 100%;
+    top: 50px;
+}
+
+#tabla_por_color {
+    border-collapse: collapse;
+}
+
+#tabla_por_color th {
+    height: 50px;
+    background-color: #C7C7C7;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#tabla_por_color th:hover {
+    color: aliceblue;
+}
+
+#tabla_por_color th:nth-child(1) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(2) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(3) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(4) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(5) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(6) {
+    width: 10%;
+}
+
+#tabla_por_color th:nth-child(7) {
+    width: 10%;
+}
+
+#tabla_por_color td {
+    font-size: 12px;
+    height: 50px;
+    padding: 5px 0px 5px 0px;
+    border-bottom: 2px solid #C7C7C7;
+}
+
+#clust {
+    width: 50px;
+}
+
+#exportar_excel_riesgos {
+    margin-top: 90px;
+}

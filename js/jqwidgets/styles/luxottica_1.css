@@ -1,0 +1,1130 @@
+/*states, content and header*/
+
+.jqx-widget-luxottica_1 {
+    border-color: #004a73
+}
+
+.jqx-widget-content-luxottica_1 {
+    color: #004a73;
+    border-color: #004a73
+}
+
+.jqx-fill-state-normal-luxottica_1,
+.jqx-widget-header-luxottica_1,
+.jqx-menu-vertical-luxottica_1 {
+    color: #fff;
+    border-color: #004a73;
+    background-color: #449bca;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3c91c2), to(#449bca));
+    background-image: -moz-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -o-linear-gradient(top, #3c91c2, #449bca)
+}
+
+.jqx-grid-cell-sort-luxottica_1,
+.jqx-grid-cell-filter-luxottica_1,
+.jqx-grid-cell-pinned-luxottica_1 {
+    color: #000;
+    background-color: #deedf5
+}
+
+.jqx-grid-cell-alt-luxottica_1,
+.jqx-grid-cell-sort-alt-luxottica_1,
+.jqx-grid-cell-filter-alt-luxottica_1 {
+    color: #000;
+    background-color: #deedf5
+}
+
+.jqx-checkbox-check-checked-luxottica_1 {
+    background: transparent url(images/check_white.png) left top no-repeat
+}
+
+.jqx-checkbox-check-indeterminate-luxottica_1 {
+    background: transparent url(images/check_indeterminate_white.png) left top no-repeat
+}
+
+.jqx-grid-luxottica_1,
+.jqx-grid-header-luxottica_1,
+.jqx-grid-cell-luxottica_1 {
+    border-color: #60aad2
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-group-cell-luxottica_1 {
+    border-color: #60aad2
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-column-menubutton-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-column-sortascbutton-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-column-sortdescbutton-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-column-filterbutton-luxottica_1 {
+    background-color: #449bca;
+    border-color: #449bca
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-column-header-luxottica_1 {
+    border-color: #449bca
+}
+
+.jqx-grid-bottomright-luxottica_1,
+.jqx-panel-bottomright-luxottica_1,
+.jqx-listbox-bottomright-luxottica_1 {
+    background-color: #449bca
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-column-menubutton-luxottica_1,
+.jqx-menu-vertical-luxottica_1 {
+    background-color: #0a73a7;
+    border-color: #0a73a7
+}
+
+.jqx-grid-group-cell-luxottica_1 {
+    border-color: #60aad2;
+    background-color: #fff
+}
+
+.jqx-fill-state-hover-luxottica_1 {
+    background: #2f7097;
+    background-image: none;
+    border-color: #004a73;
+    color: #fff
+}
+
+.jqx-fill-state-pressed-luxottica_1,
+.jqx-menu-item-top-hover-luxottica_1 {
+    background: #004a73;
+    background-image: none;
+    border-color: #004a73;
+    color: #fff
+}
+
+.jqx-grid-selectionarea-luxottica_1 {
+    background-color: #60aad2;
+    border: 1px solid #60aad2;
+    opacity: 0.5
+}
+
+.jqx-scrollbar-state-normal-luxottica_1 {
+    background-color: #449bca;
+    border: 1px solid #449bca;
+}
+
+.jqx-tabs-title-selected-bottom-luxottica_1,
+.jqx-tabs-selection-tracker-bottom-luxottica_1,
+.jqx-tabs-title-selected-top-luxottica_1,
+.jqx-tabs-selection-tracker-top-luxottica_1 {
+    color: #ffffff;
+    border-color: #004a73;
+    border-bottom: 1px solid #004a73;
+    background: #004a73
+}
+
+
+/*icons*/
+
+.jqx-grid-column-sortascbutton-luxottica_1,
+.jqx-expander-arrow-bottom-luxottica_1,
+.jqx-window-collapse-button-luxottica_1,
+.jqx-menu-item-arrow-up-luxottica_1,
+.jqx-menu-item-arrow-up-selected-luxottica_1,
+.jqx-menu-item-arrow-top-up-luxottica_1,
+.jqx-icon-arrow-up-luxottica_1,
+.jqx-icon-arrow-up-hover-luxottica_1,
+.jqx-icon-arrow-up-selected-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-grid-column-menubutton-luxottica_1,
+.jqx-grid-column-sortdescbutton-luxottica_1,
+.jqx-expander-arrow-top-luxottica_1,
+.jqx-window-collapse-button-collapsed-luxottica_1,
+.jqx-menu-item-arrow-down-luxottica_1,
+.jqx-menu-item-arrow-down-selected-luxottica_1,
+.jqx-menu-item-arrow-down-luxottica_1,
+.jqx-icon-arrow-down-luxottica_1,
+.jqx-icon-arrow-down-hover-luxottica_1,
+.jqx-icon-arrow-down-selected-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-icon-arrow-left-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-icon-arrow-right-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-menu-item-arrow-left-luxottica_1 {
+    background-image: url('images/icon-left.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-menu-item-arrow-right-luxottica_1 {
+    background-image: url('images/icon-right.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-tabs-arrow-left-luxottica_1,
+.jqx-menu-item-arrow-left-selected-luxottica_1,
+.jqx-menu-item-arrow-top-left-luxottica_1,
+.jqx-icon-arrow-down-left-luxottica_1,
+.jqx-icon-arrow-left-selected-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-tabs-arrow-right-luxottica_1,
+.jqx-menu-item-arrow-right-selected-luxottica_1,
+.jqx-menu-item-arrow-top-right-luxottica_1,
+.jqx-icon-arrow-right-hover-luxottica_1,
+.jqx-icon-arrow-right-selected-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-window-close-button-luxottica_1,
+.jqx-icon-close-luxottica_1,
+.jqx-tabs-close-button-luxottica_1,
+.jqx-tabs-close-button-hover-luxottica_1,
+.jqx-tabs-close-button-selected-luxottica_1 {
+    background-image: url(images/close_white.png);
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.jqx-icon-arrow-first-luxottica_1 {
+    background-image: url('images/icon-first-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-icon-arrow-last-luxottica_1 {
+    background-image: url('images/icon-last-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-icon-search-luxottica_1 {
+    background-image: url(images/search_white.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-icon-calendar-luxottica_1,
+.jqx-icon-calendar-hover-luxottica_1,
+.jqx-icon-calendar-pressed-luxottica_1 {
+    background-image: url('images/icon-calendar-white.png');
+}
+
+.jqx-icon-time-luxottica_1,
+.jqx-icon-time-hover-luxottica_1,
+.jqx-icon-time-pressed-luxottica_1 {
+    background-image: url('images/icon-time-white.png');
+}
+
+.jqx-icon-delete-luxottica_1 {
+    background-image: url('images/icon-delete-white.png');
+}
+
+.jqx-icon-edit-luxottica_1 {
+    background-image: url('images/icon-edit-white.png');
+}
+
+.jqx-icon-save-luxottica_1 {
+    background-image: url('images/icon-save-white.png');
+}
+
+.jqx-icon-cancel-luxottica_1 {
+    background-image: url('images/icon-cancel-white.png');
+}
+
+.jqx-icon-search-luxottica_1 {
+    background-image: url(images/search_white.png);
+}
+
+.jqx-icon-plus-luxottica_1 {
+    background-image: url(images/plus_white.png);
+}
+
+.jqx-grid-group-expand-luxottica_1,
+.jqx-grid-cell-luxottica_1>.jqx-grid-group-expand-luxottica_1,
+.jqx-tree-item-arrow-expand-luxottica_1 {
+    background-image: url('images/icon-down.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-group-collapse-luxottica_1,
+.jqx-grid-cell-luxottica_1>.jqx-grid-group-collapse-luxottica_1,
+.jqx-tree-item-arrow-collapse-luxottica_1 {
+    background-image: url('images/icon-right.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-group-collapse-rtl-luxottica_1,
+.jqx-grid-cell-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1,
+.jqx-tree-item-arrow-collapse-rtl-luxottica_1 {
+    background-image: url('images/icon-left.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-group-expand-rtl-luxottica_1,
+.jqx-grid-cell-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1 {
+    background-image: url('images/icon-down.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-expand-luxottica_1,
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-expand-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-collapse-luxottica_1,
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-collapse-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1,
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1,
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.jqx-menu-minimized-button-luxottica_1 {
+    background-image: url('images/icon-menu-minimized-white.png');
+}
+
+.jqx-editor-toolbar-icon-luxottica_1 {
+    background: url('images/html_editor_white.png') no-repeat;
+}
+
+.jqx-layout-luxottica_1 {
+    background-color: #004a73;
+}
+
+.jqx-layout-pseudo-window-pin-icon-luxottica_1 {
+    background-image: url("images/pin-white.png");
+}
+
+.jqx-layout-pseudo-window-pinned-icon-luxottica_1 {
+    background-image: url("images/pinned-white.png");
+}
+
+.jqx-scheduler-month-cell-luxottica_1,
+.jqx-scheduler-time-column-luxottica_1,
+.jqx-scheduler-toolbar-luxottica_1 {
+    background: #449bca !important;
+    color: #fff !important;
+}
+
+.jqx-widget-luxottica_1 .jqx-scheduler-middle-cell-luxottica_1,
+.jqx-scheduler-middle-cell-luxottica_1 {
+    border-bottom-color: #449bca !important;
+}
+
+.jqx-widget-content-luxottica_1 {
+    color: #004a73;
+    text-shadow: none;
+    border-color: #004a73;
+    background: #ffffff;
+}
+
+.jqx-widget-header-luxottica_1,
+.jqx-grid-luxottica_1 .jqx-widget-header-luxottica_1 {
+    color: #FFFFFF;
+    text-shadow: none;
+    border-color: #D6D6D6;
+    background-color: #005585;
+    background-image: -moz-linear-gradient(top, #005585, #005585);
+    background-image: -ms-linear-gradient(top, #005585, #005585);
+    background-image: -o-linear-gradient(top, #005585, #005585);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#005585), to(#005585));
+    background-image: -webkit-linear-gradient(top, #005585, #005585);
+    background-image: linear-gradient(top, #005585, #005585);
+    background-image: linear-gradient(to bottom, #005585, #005585);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-grid-column-menubutton-luxottica_1,
+.jqx-widget-luxottica_1.jqx-grid-column-menubutton-luxottica_1 {
+    border-color: #D6D6D6;
+}
+
+.jqx-grid-cell-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-luxottica_1 {
+    background-color: #ffffff;
+    color: #222222;
+    text-shadow: none;
+}
+
+.jqx-fill-state-normal-luxottica_1 {
+    color: #ffffff;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #3c91c2;
+    background-image: -moz-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -ms-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -o-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#3c91c2), to(#449bca));
+    background-image: -webkit-linear-gradient(top, #3c91c2, #449bca);
+    background-image: linear-gradient(top, #3c91c2, #449bca);
+    background-image: linear-gradient(to bottom, #3c91c2, #449bca);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-grid-selectionarea-luxottica_1 {
+    border-color: #004a73;
+    background-color: #3c91c2;
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-sort-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-filter-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-pinned-luxottica_1,
+.jqx-grid-cell-sort-luxottica_1,
+.jqx-grid-cell-filter-luxottica_1,
+.jqx-grid-cell-pinned-luxottica_1 {
+    background-color: #deedf5;
+    color: #222222;
+    text-shadow: none;
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-alt-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-sort-alt-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-pinned-alt-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-filter-alt-luxottica_1,
+.jqx-grid-cell-alt-luxottica_1,
+.jqx-grid-cell-sort-alt-luxottica_1,
+.jqx-grid-cell-filter-alt-luxottica_1 {
+    background-color: #deedf5;
+    color: #222222;
+    text-shadow: none;
+}
+
+.jqx-fill-state-hover-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-hover-luxottica_1 {
+    color: #ffffff;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #2f7097;
+    background-image: -moz-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -ms-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -o-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#2f7097), to(#2f7097));
+    background-image: -webkit-linear-gradient(top, #2f7097, #2f7097);
+    background-image: linear-gradient(top, #2f7097, #2f7097);
+    background-image: linear-gradient(to bottom, #2f7097, #2f7097);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-fill-state-pressed-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-selected-luxottica_1 {
+    color: #ffffff;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #004a73;
+    background-image: -moz-linear-gradient(top, #004a73, #004a73);
+    background-image: -ms-linear-gradient(top, #004a73, #004a73);
+    background-image: -o-linear-gradient(top, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(to bottom, #004a73, #004a73);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-switchbutton-label-on-luxottica_1 {
+    color: #ffffff;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #004a73;
+    background-image: -moz-linear-gradient(top, #004a73, #004a73);
+    background-image: -ms-linear-gradient(top, #004a73, #004a73);
+    background-image: -o-linear-gradient(top, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(to bottom, #004a73, #004a73);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-tabs-title-selected-top-luxottica_1,
+.jqx-tabs-selection-tracker-top-luxottica_1 {
+    color: #004a73;
+    text-shadow: none;
+    border-color: #004a73;
+    border-bottom: 1px solid #ffffff;
+    background-image: none;
+    background-color: #ffffff;
+}
+
+.jqx-tabs-title-selected-bottom-luxottica_1,
+.jqx-tabs-selection-tracker-bottom-luxottica_1 {
+    color: #004a73;
+    text-shadow: none;
+    border-color: #004a73;
+    border-top: 1px solid #ffffff;
+    background-image: none;
+    background-color: #ffffff;
+}
+
+.jqx-splitter-splitbar-hover-luxottica_1 {
+    background: #2f7097;
+}
+
+.jqx-splitter-splitbar-vertical-luxottica_1,
+.jqx-splitter-splitbar-horizontal-luxottica_1,
+.jqx-slider-track-horizontal-luxottica_1,
+.jqx-slider-track-vertical-luxottica_1 {
+    background: #3c91c2;
+}
+
+.jqx-splitter-collapse-button-horizontal-luxottica_1,
+.jqx-splitter-collapse-button-vertical-luxottica_1,
+.jqx-slider-rangebar-luxottica_1 {
+    background: #004a73;
+}
+
+.jqx-scrollbar-state-normal-luxottica_1 {
+    background-color: #449bca;
+    border-color: #449bca;
+}
+
+.jqx-grid-bottomright-luxottica_1,
+.jqx-panel-bottomright-luxottica_1,
+.jqx-listbox-bottomright-luxottica_1 {
+    background-color: #449bca;
+}
+
+.jqx-scrollbar-thumb-state-normal-luxottica_1 {
+    background-color: #449bca;
+    background-color: #449bca;
+    background-image: -moz-linear-gradient(left, #449bca, #449bca);
+    background-image: -ms-linear-gradient(left, #449bca, #449bca);
+    background-image: -o-linear-gradient(left, #449bca, #449bca);
+    background-image: -webkit-gradient(linear, left top, right top, from(#449bca), to(#449bca));
+    background-image: -webkit-linear-gradient(left, #449bca, #449bca);
+    background-image: linear-gradient(left, #449bca, #449bca);
+    background-image: linear-gradient(left right, #449bca, #449bca);
+}
+
+.jqx-scrollbar-thumb-state-normal-horizontal-luxottica_1 {
+    background-color: #449bca;
+    background-color: #449bca;
+    background-image: -moz-linear-gradient(top, #449bca, #449bca);
+    background-image: -ms-linear-gradient(top, #449bca, #449bca);
+    background-image: -o-linear-gradient(top, #449bca, #449bca);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#449bca), to(#449bca));
+    background-image: -webkit-linear-gradient(top, #449bca, #449bca);
+    background-image: linear-gradient(top, #449bca, #449bca);
+    background-image: linear-gradient(to bottom, #449bca, #449bca);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-scrollbar-thumb-state-hover-luxottica_1 {
+    background-color: #004a73;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(left, #004a73, #004a73);
+    background-image: -ms-linear-gradient(left, #004a73, #004a73);
+    background-image: -o-linear-gradient(left, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, left top, right top, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(left, #004a73, #004a73);
+    background-image: linear-gradient(left, #004a73, #004a73);
+    background-image: linear-gradient(left right, #004a73, #004a73);
+}
+
+.jqx-scrollbar-thumb-state-hover-horizontal-luxottica_1 {
+    background-color: #004a73;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(top, #004a73, #004a73);
+    background-image: -ms-linear-gradient(top, #004a73, #004a73);
+    background-image: -o-linear-gradient(top, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(to bottom, #004a73, #004a73);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-scrollbar-thumb-state-pressed-luxottica_1 {
+    background-color: #004a73;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(left, #004a73, #004a73);
+    background-image: -ms-linear-gradient(left, #004a73, #004a73);
+    background-image: -o-linear-gradient(left, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, left top, right top, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(left, #004a73, #004a73);
+    background-image: linear-gradient(left, #004a73, #004a73);
+    background-image: linear-gradient(left right, #004a73, #004a73);
+}
+
+.jqx-scrollbar-thumb-state-pressed-horizontal-luxottica_1 {
+    background-color: #004a73;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(top, #004a73, #004a73);
+    background-image: -ms-linear-gradient(top, #004a73, #004a73);
+    background-image: -o-linear-gradient(top, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(to bottom, #004a73, #004a73);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-scrollbar-button-state-normal-luxottica_1 {
+    background-color: #449bca;
+    background-image: -moz-linear-gradient(top, #449bca, #449bca);
+    background-image: -ms-linear-gradient(top, #449bca, #449bca);
+    background-image: -o-linear-gradient(top, #449bca, #449bca);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#449bca), to(#449bca));
+    background-image: -webkit-linear-gradient(top, #449bca, #449bca);
+    background-image: linear-gradient(top, #449bca, #449bca);
+    background-image: linear-gradient(to bottom, #449bca, #449bca);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-scrollbar-button-state-hover-luxottica_1 {
+    background-color: #2f7097;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -ms-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -o-linear-gradient(top, #2f7097, #2f7097);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#2f7097), to(#2f7097));
+    background-image: -webkit-linear-gradient(top, #2f7097, #2f7097);
+    background-image: linear-gradient(top, #2f7097, #2f7097);
+    background-image: linear-gradient(to bottom, #2f7097, #2f7097);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-scrollbar-button-state-pressed-luxottica_1 {
+    background-color: #004a73;
+    border-color: #004a73;
+    background-image: -moz-linear-gradient(top, #004a73, #004a73);
+    background-image: -ms-linear-gradient(top, #004a73, #004a73);
+    background-image: -o-linear-gradient(top, #004a73, #004a73);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#004a73), to(#004a73));
+    background-image: -webkit-linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(top, #004a73, #004a73);
+    background-image: linear-gradient(to bottom, #004a73, #004a73);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-radiobutton-check-checked-luxottica_1 {
+    background: #004a73;
+    width: 7px;
+    height: 7px;
+    margin-left: 2px;
+    margin-top: 2px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.jqx-rc-tl-luxottica_1 {
+    -moz-border-radius-topleft: 3px;
+    -webkit-border-radius-topleft: 3px;
+    border-radius-topleft: 3px;
+}
+
+.jqx-rc-tr-luxottica_1 {
+    -moz-border-radius-topright: 3px;
+    -webkit-border-radius-topright: 3px;
+    border-radius-topright: 3px;
+}
+
+.jqx-rc-bl-luxottica_1 {
+    -moz-border-radius-bottomleft: 3px;
+    -webkit-border-radius-bottomleft: 3px;
+    border-radius-bottomleft: 3px;
+}
+
+.jqx-rc-br-luxottica_1 {
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-radius-bottomright: 3px;
+    border-radius-bottomright: 3px;
+}
+
+.jqx-rc-t-luxottica_1 {
+    -moz-border-radius-topleft: 3px;
+    -webkit-border-top-left-radius: 3px;
+    border-top-left-radius: 3px;
+    -moz-border-radius-topright: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.jqx-rc-b-luxottica_1 {
+    -moz-border-radius-bottomleft: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.jqx-rc-r-luxottica_1 {
+    -moz-border-radius-topright: 3px;
+    -webkit-border-top-right-radius: 3px;
+    border-top-right-radius: 3px;
+    -moz-border-radius-bottomright: 3px;
+    -webkit-border-bottom-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.jqx-rc-l-luxottica_1 {
+    -moz-border-radius-topleft: 3px;
+    -webkit-border-top-left-radius: 3px;
+    border-top-left-radius: 3px;
+    -moz-border-radius-bottomleft: 3px;
+    -webkit-border-bottom-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.jqx-radiobutton-default-luxottica_1,
+.jqx-radiobutton-luxottica_1,
+.jqx-radiobutton-check-checked-luxottica_1,
+.jqx-radiobutton-hover-luxottica_1,
+.jqx-radiobutton-check-indeterminate-luxottica_1,
+.jqx-radiobutton-check-indeterminate-disabled-luxottica_1,
+.jqx-slider-button-luxottica_1 {
+    -moz-border-radius: 100% !important;
+    -webkit-border-radius: 100% !important;
+    border-radius: 100% !important;
+}
+
+.jqx-rc-all-luxottica_1,
+.jqx-tooltip-luxottica_1,
+.jqx-tooltip-text-luxottica_1,
+.jqx-tooltip-main-luxottica_1 {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.jqx-grid-column-sortascbutton-luxottica_1,
+.jqx-expander-arrow-bottom-luxottica_1,
+.jqx-window-collapse-button-luxottica_1,
+.jqx-menu-item-arrow-up-luxottica_1,
+.jqx-menu-item-arrow-top-up-luxottica_1,
+.jqx-icon-arrow-up-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-icon-arrow-up-hover-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-menu-item-arrow-up-selected-luxottica_1,
+.jqx-icon-arrow-up-selected-luxottica_1.jqx-expander-arrow-expanded-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-grid-column-menubutton-luxottica_1,
+.jqx-grid-column-sortdescbutton-luxottica_1,
+.jqx-expander-arrow-top-luxottica_1,
+.jqx-window-collapse-button-collapsed-luxottica_1,
+.jqx-menu-item-arrow-down-luxottica_1,
+.jqx-menu-item-arrow-down-luxottica_1,
+.jqx-tree-item-arrow-expand-luxottica_1,
+.jqx-grid-group-expand-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-group-expand-luxottica_1,
+.jqx-icon-arrow-down-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-icon-arrow-down-hover-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-menu-item-arrow-down-selected-luxottica_1,
+.jqx-icon-arrow-down-selected-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-tabs-arrow-left-luxottica_1,
+.jqx-menu-item-arrow-top-left-luxottica_1,
+.jqx-grid-group-collapse-rtl-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-group-collapse-rtl-luxottica_1,
+.jqx-icon-arrow-left-luxottica_1,
+.jqx-icon-arrow-down-left-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-icon-arrow-left-hover-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-menu-vertical-luxottica_1 {
+    background: #ffffff;
+}
+
+.jqx-menu-item-arrow-left-selected-luxottica_1,
+.jqx-icon-arrow-left-selected-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-tabs-arrow-right-luxottica_1,
+.jqx-menu-item-arrow-top-right-luxottica_1,
+.jqx-menu-item-arrow-collapse-luxottica_1,
+.jqx-grid-group-collapse-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-group-collapse-luxottica_1,
+.jqx-icon-arrow-right-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-icon-arrow-right-hover-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-menu-item-arrow-right-selected-luxottica_1,
+.jqx-icon-arrow-right-selected-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-window-close-button-luxottica_1,
+.jqx-tabs-close-button-luxottica_1,
+.icon-close-luxottica_1 {
+    background-image: url('images/close_white.png');
+}
+
+.jqx-tabs-close-button-selected-luxottica_1 {
+    background-image: url('images/close_white.png');
+}
+
+.jqx-tabs-close-button-hover-luxottica_1 {
+    background-image: url('images/close_white.png');
+}
+
+.jqx-widget-luxottica_1 .jqx-grid-column-header-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-cell-luxottica_1,
+.jqx-widget-luxottica_1 .jqx-grid-group-cell-luxottica_1,
+.jqx-grid-cell-luxottica_1 {
+    border-color: #60aad2;
+}
+
+.jqx-checkbox-check-checked-luxottica_1 {
+    background-image: url('images/check_white.png');
+}
+
+.jqx-checkbox-check-indeterminate-luxottica_1 {
+    background-image: url('images/check_indeterminate_white.png');
+}
+
+.jqx-tooltip-luxottica_1,
+.jqx-tooltip-main-luxottica_1 {
+    color: #ffffff;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #3c91c2;
+    background-image: -moz-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -ms-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -o-linear-gradient(top, #3c91c2, #449bca);
+    background-image: -webkit-gradient(linear, center top, center bottom, from(#3c91c2), to(#449bca));
+    background-image: -webkit-linear-gradient(top, #3c91c2, #449bca);
+    background-image: linear-gradient(top, #3c91c2, #449bca);
+    background-image: linear-gradient(to bottom, #3c91c2, #449bca);
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    -webkit-background-clip: padding-box;
+}
+
+.jqx-combobox-content-luxottica_1,
+.jqx-input-luxottica_1 {
+    color: #222222;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #ffffff;
+}
+
+.jqx-combobox-input-luxottica_1 {
+    color: #222222;
+    text-shadow: none;
+}
+
+.jqx-input-content-luxottica_1 {
+    color: #222222;
+    text-shadow: none;
+    background-color: #ffffff;
+}
+
+.jqx-fill-state-focus-luxottica_1,
+.jqx-popup-luxottica_1 .jqx-fill-state-focus-luxottica_1 {
+    border-color: #111111;
+}
+
+.jqx-popup-luxottica_1.jqx-listbox-luxottica_1,
+.jqx-popup-luxottica_1.jqx-calendar-luxottica_1,
+.jqx-menu-dropdown-luxottica_1,
+.jqx-popup-luxottica_1.jqx-dropdownbutton-popup-luxottica_1 {
+    color: #222222;
+    text-shadow: none;
+    border-color: #004a73;
+    background-color: #ffffff;
+}
+
+.jqx-menu-item-arrow-right-luxottica_1,
+.jqx-tree-item-arrow-collapse-luxottica_1 {
+    background-image: url('images/icon-right.png');
+}
+
+.jqx-menu-item-arrow-left-luxottica_1 {
+    background-image: url('images/icon-left.png');
+}
+
+.jqx-tree-item-arrow-expand-luxottica_1 {
+    background-image: url('images/icon-down.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-up-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-left-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-right-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-bottom-luxottica_1 {
+    background-image: url('images/icon-bottom-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-up-hover-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-left-hover-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-right-hover-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-bottom-hover-luxottica_1 {
+    background-image: url('images/icon-bottom-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-up-selected-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-left-selected-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-right-selected-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-scrollbar-luxottica_1 .jqx-icon-arrow-bottom-selected-luxottica_1 {
+    background-image: url('images/icon-bottom-white.png');
+}
+
+.jqx-calendar-luxottica_1 .jqx-icon-arrow-up-luxottica_1,
+.jqx-tabs-header-luxottica_1 .jqx-icon-arrow-up-luxottica_1 {}
+
+.jqx-calendar-luxottica_1 .jqx-icon-arrow-left-luxottica_1,
+.jqx-tabs-header-luxottica_1 .jqx-icon-arrow-left-luxottica_1 {}
+
+.jqx-calendar-luxottica_1 .jqx-icon-arrow-right-luxottica_1,
+.jqx-tabs-header-luxottica_1 .jqx-icon-arrow-right-luxottica_1 {}
+
+.jqx-calendar-luxottica_1 .jqx-icon-arrow-bottom-luxottica_1,
+.jqx-tabs-header-luxottica_1 .jqx-icon-arrow-bottom-luxottica_1 {}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-luxottica_1,
+.jqx-listitem-state-normal-luxottica_1,
+.jqx-menu-item-normal-luxottica_1,
+.jqx-tree-item-normal-luxottica_1,
+.jqx-calendar-cell-luxottica_1,
+.jqx-grid-cell-luxottica_1,
+.jqx-menu-vertical-luxottica_1 .jqx-menu-item-top-normal-luxottica_1,
+.jqx-input-popup-luxottica_1 .jqx-fill-state-normal-luxottica_1 {}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-hover-luxottica_1,
+.jqx-listitem-state-hover-luxottica_1,
+.jqx-menu-item-hover-luxottica_1,
+.jqx-tree-item-hover-luxottica_1,
+.jqx-calendar-cell-hover-luxottica_1,
+.jqx-grid-cell-hover-luxottica_1,
+.jqx-menu-vertical-luxottica_1 .jqx-menu-item-top-hover-luxottica_1,
+.jqx-input-popup-luxottica_1 .jqx-fill-state-hover-luxottica_1,
+.jqx-input-button-header-luxottica_1,
+.jqx-input-popup-luxottica_1 .jqx-fill-state-pressed-luxottica_1,
+.jqx-input-button-header-luxottica_1 {}
+
+.jqx-widget-luxottica_1 .jqx-grid-cell-selected-luxottica_1,
+.jqx-listitem-state-selected-luxottica_1,
+.jqx-menu-item-selected-luxottica_1,
+.jqx-tree-item-selected-luxottica_1,
+.jqx-calendar-cell-selected-luxottica_1,
+.jqx-grid-cell-selected-luxottica_1,
+.jqx-menu-vertical-luxottica_1 .jqx-menu-item-top-selected-luxottica_1,
+.jqx-grid-selectionarea-luxottica_1 {}
+
+.jqx-icon-calendar-luxottica_1 {
+    background-image: url('images/icon-calendar-white.png');
+}
+
+.jqx-icon-calendar-hover-luxottica_1 {
+    background-image: url('images/icon-calendar-white.png');
+}
+
+.jqx-icon-calendar-pressed-luxottica_1 {
+    background-image: url('images/icon-calendar-white.png');
+}
+
+.jqx-icon-first-luxottica_1 {
+    background-image: url('images/icon-first-white.png');
+}
+
+.jqx-icon-first-hover-luxottica_1 {
+    background-image: url('images/icon-first-white.png');
+}
+
+.jqx-icon-first-selected-luxottica_1 {
+    background-image: url('images/icon-first-white.png');
+}
+
+.jqx-icon-last-luxottica_1 {
+    background-image: url('images/icon-last-white.png');
+}
+
+.jqx-icon-last-hover-luxottica_1 {
+    background-image: url('images/icon-last-white.png');
+}
+
+.jqx-icon-last-selected-luxottica_1 {
+    background-image: url('images/icon-last-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-luxottica_1>.jqx-grid-group-expand-luxottica_1 {
+    background-image: url('images/icon-down.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-expand-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-expand-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-luxottica_1>.jqx-grid-group-collapse-luxottica_1 {
+    background-image: url('images/icon-right.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-collapse-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-collapse-luxottica_1 {
+    background-image: url('images/icon-right-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1 {
+    background-image: url('images/icon-down.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-expand-rtl-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1 {
+    background-image: url('images/icon-left.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-hover-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-grid-cell-luxottica_1.jqx-grid-cell-selected-luxottica_1>.jqx-grid-group-collapse-rtl-luxottica_1 {
+    background-image: url('images/icon-left-white.png');
+}
+
+.jqx-grid-column-menubutton-luxottica_1,
+.jqx-grid-column-sortdescbutton-luxottica_1 {
+    background-image: url('images/icon-down-white.png');
+}
+
+.jqx-grid-column-sortascbutton-luxottica_1 {
+    background-image: url('images/icon-up-white.png');
+}
+
+.jqx-icon-delete-luxottica_1 {
+    background-image: url('images/icon-delete-white.png');
+}
+
+.jqx-icon-edit-luxottica_1 {
+    background-image: url('images/icon-edit-white.png');
+}
+
+.jqx-icon-save-luxottica_1 {
+    background-image: url('images/icon-save-white.png');
+}
+
+.jqx-icon-cancel-luxottica_1 {
+    background-image: url('images/icon-cancel-white.png');
+}
+
+.jqx-icon-search-luxottica_1 {
+    background-image: url('images/icon-search_white.png');
+}
+
+.jqx-icon-plus-luxottica_1 {
+    background-image: url('images/icon-plus_white.png');
+}

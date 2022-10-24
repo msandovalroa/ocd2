@@ -1,0 +1,85 @@
+#menu_principal_cerrado{
+	position: absolute;
+    background-color: #BB0800;
+    width: 150px;
+    height: 30px;
+    padding: 10px 0px 0px 20px;
+    color: white;
+    font-size: 20px;
+    font-family: Gotham-Medium;
+}
+
+#menu_principal_cerrado:hover{
+	cursor: pointer;
+	background-color: #D21F16; 
+}
+
+#menu_principal_abierto{
+	background-color: #BB0800;
+    width: 230px;
+    height: 400px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    display: none;
+    z-index: 5;
+    font-family: Gotham-Medium;
+}
+
+#menu_principal_abierto a, #menu_principal_abierto a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+.seccion{
+	width: 100%;
+	height: 40px;
+	padding: 16px 0px 10px 0px;
+}
+
+.seccion:hover{
+	cursor: pointer;
+	background-color: #D21F16; 
+}
+
+#img_menu_ocultar{
+	width: 50px;
+    height: 100%;
+    float: right;
+    margin-right: 10px;
+}
+
+#home{
+background-image: url(../css/Assets/i_dashboard.png);
+background-repeat: no-repeat;
+background-position: center 10px;
+padding-top: 35px;
+}
+
+#dashboard_riesgos{
+background-image: url(../css/Assets/i_riesgo.png);
+background-repeat: no-repeat;
+background-position: center 9px;
+padding-top: 35px;
+}
+
+#actividad_inusual{
+background-image: url(../css/Assets/i_actividad.png);
+background-repeat: no-repeat;
+background-position: center 10px;
+padding-top: 35px;
+}
+
+#rastreo{
+background-image: url(../css/Assets/i_rastreo.png);
+background-repeat: no-repeat;
+background-position: center 10px;
+padding-top: 35px;
+}
+
+#scorecard{
+background-image: url(../css/Assets/i_scorecard.png);
+background-repeat: no-repeat;
+background-position: center 10px;
+padding-top: 35px;
+}
