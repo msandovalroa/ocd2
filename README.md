@@ -15,9 +15,9 @@ With OCD2 we tried to simplify the information to allow the users to understand 
 
 ### Images
 
+![image](https://user-images.githubusercontent.com/74633512/199818919-6a880002-9655-4c8f-8a10-88195a1f915b.png)
 ![9dcda1c5-f138-4496-8473-03b9e070455a](https://user-images.githubusercontent.com/74633512/199817766-4430ce3c-6963-41e2-8351-870851a945dc.png)
 ![b5335f89-8470-4e82-94a8-e2c366bac8ca](https://user-images.githubusercontent.com/74633512/199817775-891d404c-dd1a-43bc-9282-cccc79f4c194.png)
-[image.pdf](https://github.com/msandovalroa/ocd2/files/9932443/image.pdf)
 
 
 ### Instalation
